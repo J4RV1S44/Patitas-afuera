@@ -1,0 +1,155 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(FONDO.jpg);
+    font-family: Comic Sans ms;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+    color: white;
+}
+
+header {
+    background-color: #5a2a80;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    font-family: Comic Sans ms;
+    font-size: 5rem;
+    color: white;
+   
+}
+
+.div1{
+   color:black;
+   background-color: #dac9df;
+   margin-left:  100px;
+   
+    margin-top: -50px;
+    margin-bottom: 100px;
+    border-radius: 8px;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    border:10px solid;
+    border-color: #5a2a80;
+}
+
+.div2{
+
+   color:black;
+   background-color: #dac9df;
+   margin-left: 550px;
+    padding: 20px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 8px;
+    width: 60%; 
+    min-height: 300px;
+   border:10px solid;
+    border-color: #5a2a80;
+
+}
+
+.div3{
+
+    color:black;
+   background-image: url(producto.jpg);
+   background-size: cover;
+   margin-left:  100px;
+   
+    margin-top: -420px;
+    margin-bottom: 300px;
+    border-radius: 8px;
+    width: 300px;
+    height: 400px;
+    position: absolute;
+    border:10px solid;
+    border-color: #5a2a80;
+}
+div p {
+    font-size: 25px;
+    font-family: 'Comic Sans ms';
+
+}
+strong{
+    font-family: 'Comic Sans ms';
+}
+li{
+    font-family: 'Comic Sans ms';
+}
+h3{
+    font-family: 'Comic Sans ms';
+    color: ;
+}
+
+footer {
+    background-color: #5a2a80;
+    color: white;
+    text-align: center;
+    padding: 0px;
+    
+    margin-bottom: 0px;
+}
+h2{
+    font-family: 'Comic Sans ms';
+    text-align: center;
+}
+.zoom {
+    transition: transform 1.2s; 
+    width: 250px;
+    height: 250px;
+    margin-top: 20px;
+    object-fit: cover;
+}
+.zoom:hover {
+    transform: scale(1.2); 
+}
+a{
+    display: inline-flex;
+
+    color: #4C9B3A;
+    padding: 10px;
+    text-decoration: none;
+    font-family: 'Comic Sans ms';
+    margin-right: 150px;
+    margin-left: 50px;
+   margin-top: PX;
+}
+
+.marca1{
+    position: absolute;
+    width: 150px;
+    height: auto;
+    top: 10px;
+    left: 200px;
+}
+.marca2{
+    position: absolute;
+    width: 150px;
+    height: auto;
+    top: 10px;
+    right: 200px;
+}
+
+.link1{
+    width: 100px;
+    height: 100px;
+    position: bottom;
+
+}
+p{
+    color: #5a2a80;
+}
+.REDES{
+    color: white;
+    font-size: 50PX;
+    text-decoration: underline;
+}
