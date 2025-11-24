@@ -121,7 +121,7 @@ a{
     font-family: 'Comic Sans ms';
     margin-right: 150px;
     margin-left: 50px;
-   margin-top: PX;
+   margin-top: 0PX;
 }
 
 .marca1{
@@ -142,14 +142,19 @@ a{
 .link1{
     width: 100px;
     height: 100px;
-    position: bottom;
-
+    margin-bottom: -30PX;
+   
 }
 p{
     color: #5a2a80;
 }
 .REDES{
+    text-align: top;
     color: white;
-    font-size: 50PX;
-    text-decoration: underline;
+    font-size: 40PX;
+    
+}
+.F2{
+    color: white;
+    margin-right: 100PX;
 }
